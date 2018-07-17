@@ -1,4 +1,4 @@
-# [DeBevakare](https://startbootstrap.com/template-overviews/grayscale/)
+# [DeBevakare](https://DeBevakare.xyz)
 
 The website of DeBevakare - the guardian
 
